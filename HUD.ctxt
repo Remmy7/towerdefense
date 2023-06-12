@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HUD
+comment0.text=\r\n\ Vytv\u00E1ra\ pl\u00E1tno\ pre\ GameManazera\ a\ spracuv\u00E1va\ ho\r\n\ \r\n\ @autor\ Tibor\ Michalov\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=HUD()
+comment1.text=\r\n\ Vytv\u00E1ra\ pl\u00E1tno\ pre\ GameManazera\ a\ spracuv\u00E1va\ ho\r\n
+comment2.params=font
+comment2.target=void\ setFont(int)
+comment2.text=\r\n\ Switch,\ \u010Do\ vracia\ font\r\n
+comment3.params=text\ x\ y
+comment3.target=void\ drawString(java.lang.String,\ int,\ int)
+comment3.text=\r\n\ Nap\u00ED\u0161e\ String\ na\ pl\u00E1tno.\r\n
+numComments=4

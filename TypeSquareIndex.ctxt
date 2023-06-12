@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TypeSquareIndex
+comment0.text=\r\n\ Classa\ dr\u017Eiaca\ Xov\u00FD\ a\ Yov\u00FD\ index\ v\ matici\ po\u013Ea.\r\n\ \r\n\ @autor\ Tibor\ Michalov\r\n\ @version\ 0.1\r\n
+comment1.params=x\ y
+comment1.target=TypeSquareIndex(int,\ int)
+comment1.text=\r\n\ Kon\u0161truktor\ s\ 2\ parametrami\ pre\ indexy\ pola.\r\n
+comment2.params=
+comment2.target=int\ returnIndexX()
+comment2.text=\r\n\ Vracia\ Xov\u00FD\ index.\r\n
+comment3.params=
+comment3.target=int\ returnIndexY()
+comment3.text=\r\n\ Vracia\ Yov\u00FD\ index.\r\n
+numComments=4

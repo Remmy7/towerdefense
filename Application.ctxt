@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Application
+comment0.text=\r\n\ \r\n\ Aplik\u00E1cia\ hry.\r\n\ Sl\u00FA\u017Ei\ ako\ main\ tejto\ towerdefense\ hry.\r\n\ \r\n\ \r\n\ @autor\ Tibor\ Michalov\r\n\ @version\ 0.1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Vytv\u00E1ra\ main.\r\n
+numComments=2

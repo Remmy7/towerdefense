@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TypeSquareDimension
+comment0.text=\r\n\ Classa\ dr\u017Eiaca\ Xov\u00FD\ a\ Yov\u00FD\ index\ v\ pl\u00E1tne.\r\n\ \r\n\ @autor\ Tibor\ Michalov\r\n\ @version\ 0.1\r\n
+comment1.params=x\ y
+comment1.target=TypeSquareDimension(int,\ int)
+comment1.text=\r\n\ Kon\u0161truktor\ pre\ vytvorenie\ Xovej\ a\ Yovej\ s\u00FAradnice\ pre\ pl\u00E1tno.\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Vracia\ variable\ x.\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Vracia\ variable\ y.\r\n
+numComments=4
